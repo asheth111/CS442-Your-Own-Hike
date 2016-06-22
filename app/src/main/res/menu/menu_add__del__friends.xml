@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="team10.cs442.project.com.Friend_Lib.Add_Del_Friends">
+    <item android:id="@+id/fri_home"
+        android:title="Home" />
+    <item android:id="@+id/fri_list"
+        android:title="Friends" />
+</menu>
