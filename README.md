@@ -1,0 +1,4 @@
+# Your Own Hike
+This Android application seeks to provide education and safety to users, by acting as an active field guide, notebook, map, and navigational device. Application is made to allow user to access crucial  information about plants, animals, geological landmarks, and environment of each trail and  campground located within the Devil’s Lake State Park.
+
+Your Own Hike is compatible with Android 5.0 API level 21 and higher versions. The application requires connection to Internet in order to save data to database, internal GPS receiver in order to obtain coordinates automatically as well as internal photo camera. Data saved in database can be seen using any major Internet browser. After installation on the device, Your Own Hike can be used immediately without any further configuration.
